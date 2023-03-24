@@ -1,0 +1,8 @@
+@import url("/Psychologist-website/css/normalize.css");
+@import url("/Psychologist-website/css/fonts.css");
+@import url("/Psychologist-website/css/header.css");
+body {
+    max-width: 1440px;
+    width: 100%;
+    font-family: "Larsseit";
+}
