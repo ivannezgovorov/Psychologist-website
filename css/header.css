@@ -1,3 +1,9 @@
+.header{
+    background: #F4F9E2;
+    height: 840px;
+}
+
+/* Up menu header */
 .header-menu {
     display: flex;
     justify-content: space-between;
@@ -10,6 +16,9 @@
 }
 
 .header-menu__nav-link {
+    display: flex;
+    justify-content: space-between;
+    width: 233px;
     margin-top: 38px;
 }
 
@@ -23,8 +32,8 @@
 }
 
 .nav-link:hover {
-    border-bottom: 1px solid #F4F9E2;
-    ;
+    border-bottom: 1px solid #000000;
+    
 }
 
 .header-btn {
@@ -42,4 +51,62 @@
     text-decoration: none;
     display: inline-block;
     cursor: pointer;
+}
+/* desription header */
+
+.header-description{
+    display: flex;
+    flex-direction: column;
+    max-width: 484px;
+    width: 100%;
+    margin: 164px 920px 75px 179px;
+}
+
+.img-logo-description{
+    padding-bottom: 40px;
+}
+h1{
+    font-size: 48px;
+    line-height: 53px;
+    letter-spacing: -0.035em;
+    width: 484px;
+    height: 167px;
+}
+.header-description__description-text-area{
+    font-size: 24px;
+    line-height: 42px;
+    color: #22356F;
+    width: 469px;
+    margin-bottom: 19px;
+}
+/* header btn-down */
+
+.header-btn_botton{
+    display: flex;
+    margin: 0px 600px 75px 179px;
+}
+
+.header-description_btn-orange{
+    margin-right: 38px;
+    background-color: #f9b640;
+    text-decoration: none;
+    padding: 10px 30px 11px 30px;
+}
+.header-description_btn-orange:active{
+    color:#F4F9E2;
+}
+
+.header-description_btn-white{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    width: 150px;
+    height: 43px;
+    color: #FAB63E;
+}
+/* absolute img background for header */
+.absolite-img{
+    position: absolute;
+    left: 750.93px;
+    top: 100.66px;
 }

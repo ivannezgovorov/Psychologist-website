@@ -1,4 +1,6 @@
 @font-face {
     font-family: "Larsseit";
-    src: url("/Psychologist-website/fonts/Larsseit/larsseit_regular.ttf") format(".ttf");
+    src: url("/Psychologist-website/fonts/Larsseit/larsseit_regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
 }

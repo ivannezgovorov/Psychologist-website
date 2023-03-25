@@ -1,0 +1,31 @@
+.section-main{
+    height: 607px;
+    background-color:  #62D0DF;
+}
+.section-why{
+    display: flex;
+    flex-direction: column;
+    padding: 151px 704px 95px 178px;
+}
+.section-why_title{
+    font-size: 36px;
+    line-height: 27px;
+    letter-spacing: -0.6%;
+    color:  #FFFFFF;
+}
+.section-why_description{
+    margin-top: 75px;
+    font-size:16px;
+    width: 555px;
+    height: 235px;
+    line-height: 28px;
+}
+.section-why_description-b{
+    font-size:24px;
+    line-height: 35px;
+}
+.absolute-img_section-why{
+    position: absolute;
+    top:840px;
+    left:915px
+}
