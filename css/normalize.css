@@ -31,6 +31,7 @@ body {
 }
 
 
+
 /**
    * Render the `main` element consistently in IE.
    */
@@ -71,6 +72,8 @@ hr {
     /* 1 */
     overflow: visible;
     /* 2 */
+    margin: 0 0;
+    padding: 0 0;
 }
 
 

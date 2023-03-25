@@ -1,5 +1,5 @@
 .section-main{
-    height: 607px;
+    height: 604px;
     background-color:  #62D0DF;
 }
 .section-why{
@@ -27,5 +27,5 @@
 .absolute-img_section-why{
     position: absolute;
     top:840px;
-    left:915px
+    left:900px;
 }
