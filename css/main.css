@@ -4,7 +4,11 @@
 @import url("/Psychologist-website/css/section-why.css");
 @import url("/Psychologist-website/css/section-about_us.css");
 @import url("/Psychologist-website/css/section-table-one.css");
-
+@import url("/Psychologist-website/css/section-table-6.css");
+@import url("/Psychologist-website/css/section-table-train.css");
+@import url("/Psychologist-website/css/section-stats.css");
+@import url("/Psychologist-website/css/section-contact-us.css");
+@import url("/Psychologist-website/css/footer.css");
 body {
     max-width: 1440px;
     width: 100%;

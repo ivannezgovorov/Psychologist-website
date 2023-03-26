@@ -1,0 +1,40 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    height: 460px;
+}
+.footer__table{
+    height: 380px;
+    display: flex;
+    margin-left: 638px;
+}
+.footer__copyright{
+    height: 80px;
+    background: #62d0df;
+}
+.footer__card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: flex-start;
+    max-width: 223px;
+    margin-top: 98px;
+    margin-bottom: 99px;
+}
+.footer__card__title{
+    color: #22356F;
+    font-size: 14px;
+    line-height: 11px;
+}
+.footer__card__main-text{
+    margin-top: 20px;
+    width: 207px;
+    font-size: 14px;
+    line-height: 23px;
+    color: rgba(34, 53, 111, 0.5);
+}
+.footer__img-absolute{
+    position: absolute;
+    left:0px;
+    top:5465px;
+}

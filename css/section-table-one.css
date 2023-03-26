@@ -9,7 +9,7 @@ li p{
     
 }
 /* board for table => hr tag */
-hr{
+.section__hr{
     border: none;
     background-color: #ffffff;
     color: #ffffff;
@@ -21,6 +21,10 @@ hr{
     display: flex;
     justify-content: space-evenly;
 }
+.board{
+    margin-left: 52.5px;
+}
+
 /* 1 table */
 .table-one_1{
     background-color: #FFE2DE;
@@ -34,6 +38,7 @@ hr{
     font-size: 32px;
     line-height: 34px;
     letter-spacing: -0.006em;
+    margin-left: 44px;
     
 }
 .table-one_2{

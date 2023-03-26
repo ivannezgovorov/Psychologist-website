@@ -1,0 +1,31 @@
+.section-stats{
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 676px;
+    margin-left: 589px;
+}
+
+.section-stats__small-text{
+    margin-top: 103px;
+    font-size: 16px;
+    line-height: 12px;
+    color: #22356f;
+}
+.section-stats__main-text{
+    font-size: 36px;
+    line-height: 53px;
+    color: #22356f;
+}
+.section-stats__bottom-text{
+    margin-bottom: 42px;
+    font-size: 16px;
+    line-height: 23px;
+    color: #fab63e;
+}
+.section-stats__absolute-img{
+    position: absolute;
+    top:3864px;
+    left:0px
+}

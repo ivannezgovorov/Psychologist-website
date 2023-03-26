@@ -1,0 +1,38 @@
+.section-contact-us{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 800px;
+    background: #22356f;
+    padding-left: 180px;
+}
+.section-contact-us__header-text{
+    margin-top: 103px;
+    font-size: 16px;
+    line-height: 12px;
+    color: #ffffff;
+}
+.section-contact-us__title-text{
+    margin-top: 230px;
+    font-size: 64px;
+    line-height: 94px;
+    color: #ffffff;
+}
+.section-contact-us__main-text{
+    width: 579px;
+    font-size: 36px;
+    line-height: 53px;
+    color: #ffffff;
+}
+.section-contact-us__bottom-text{
+    font-size: 16px;
+    line-height: 23px;
+    color: #62d0df;
+    margin-bottom: 42px;
+}
+
+.section-contact-us__img-absolute{
+    position: absolute;
+    left: 945px;
+    top:4664px;
+}
